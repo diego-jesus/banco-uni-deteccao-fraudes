@@ -44,4 +44,4 @@ Projeto criado por \[Seu Nome], analista de prevenção a fraudes em transição
 
 Sou analista de prevenção a fraudes em transição para a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
 
-📬 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/seu-usuario)
+📬 [Conecte-se comigo no LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/diego-jesus-317302178/))
