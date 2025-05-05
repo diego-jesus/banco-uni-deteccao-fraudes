@@ -34,6 +34,8 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 * Monitorar contrapartes com múltiplos remetentes
 * Desenvolver dashboards executivos com Looker Studio
 
+![Análise no BigQuery](./img/query-dispositivo.png)
+
 ## ✅ 6. Conclusão
 
 Projeto criado por \[Seu Nome], analista de prevenção a fraudes em transição para dados. Em construção constante.
