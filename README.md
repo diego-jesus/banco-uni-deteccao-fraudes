@@ -63,12 +63,13 @@ A arquitetura proposta facilita a escalabilidade das análises e a automação d
 
 ## ✅ 6. Conclusão
 
-Projeto criado por Diego Jesus, analista de prevenção a fraudes em transição para dados. Em construção constante.
+Este projeto representa uma simulação prática e estratégica do dia a dia em prevenção a fraudes, com aplicação direta de SQL, IA e raciocínio analítico. Através da construção do Banco UNI, foi possível investigar padrões críticos de risco, documentar descobertas relevantes e estruturar uma arquitetura leve, mas escalável.
 
+Mais do que um exercício técnico, essa iniciativa reforça a importância de unir conhecimento de negócio com ferramentas de dados para gerar insights acionáveis — uma habilidade cada vez mais essencial para quem atua ou colabora com times de risco, compliance ou analytics.
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou analista de prevenção a fraudes em transição para a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
+Sou analista de prevenção a fraudes buscando conhecimento e profundidade para entender a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
 
 📬 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/diego-jesus-317302178/)
