@@ -21,6 +21,9 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 * Notion: organização de conhecimento e documentação do projeto
 
 ## 📊 4. Principais Descobertas
+### Exemplo de análise de dispositivo (BigQuery)
+
+![Query executada](./img/query-dispositivo.png)
 
 * Canal app concentrou a maior parte das fraudes analisadas.
 * Dispositivos com até 7 dias de cadastramento apresentaram taxa de fraude superior.
@@ -36,7 +39,7 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 
 ## ✅ 6. Conclusão
 
-Projeto criado por \[Seu Nome], analista de prevenção a fraudes em transição para dados. Em construção constante.
+Projeto criado por Diego de Jesus Oliveira, analista de prevenção a fraudes em transição para dados. Em construção constante.
 
 ---
 
