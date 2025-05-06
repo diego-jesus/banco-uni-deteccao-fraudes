@@ -34,7 +34,7 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 * Monitorar contrapartes com múltiplos remetentes
 * Desenvolver dashboards executivos com Looker Studio
 
-![Análise de dispositivo no BigQuery]([./img/consulta-dispositivo.png](https://github.com/diego-jesus/banco-uni-deteccao-fraudes/blob/8ab8a62997f14972f5f2b47fe91b7e941fc51195/query-dispositivo.png))
+![Análise de dispositivo no BigQuery](![image](https://github.com/user-attachments/assets/be2ce360-db23-49ea-81d7-82af4b61414c)
 
 ## ✅ 6. Conclusão
 
