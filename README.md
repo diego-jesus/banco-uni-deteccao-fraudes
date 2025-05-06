@@ -23,8 +23,6 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 ## 📊 4. Principais Descobertas
 ### Exemplo de análise de dispositivo (BigQuery)
 
-![Consulta de dispositivo](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/consulta-dispositivo.png)
-
 ![Query executada 1](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo1.png)
 
 ![Query executada 2](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo2.png)
