@@ -29,6 +29,8 @@ Usuário → Simulação de dados (ChatGPT + Python)
 
 Essa arquitetura permite um fluxo completo: da geração e análise de dados até a apresentação e documentação estratégica do projeto.
 
+![Query executada 3](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/arquitetura-projeto.png)
+
 * SQL (BigQuery): JOINs, CTEs, subqueries, filtros temporais e de grupo
 * IA (ChatGPT): estruturação de queries, geração de dados sintéticos, storytelling analítico
 * Notion: organização de conhecimento e documentação do projeto
@@ -40,8 +42,6 @@ Essa arquitetura permite um fluxo completo: da geração e análise de dados at�
 ![Query executada 1](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo1.png)
 
 ![Query executada 2](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo2.png)
-
-![Query executada 3](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/arquitetura-projeto.png)
 
 
 * Canal app concentrou a maior parte das fraudes analisadas.
