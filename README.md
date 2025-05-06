@@ -23,8 +23,12 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 ## 📊 4. Principais Descobertas
 ### Exemplo de análise de dispositivo (BigQuery)
 
-![Query executada](./img/query-dispositivo1.png)
-![Query executada](./img/query-dispositivo2.png)
+![Consulta de dispositivo](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/consulta-dispositivo.png)
+
+![Query executada 1](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo1.png)
+
+![Query executada 2](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo2.png)
+
 
 * Canal app concentrou a maior parte das fraudes analisadas.
 * Dispositivos com até 7 dias de cadastramento apresentaram taxa de fraude superior.
