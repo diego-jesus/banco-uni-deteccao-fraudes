@@ -63,9 +63,10 @@ A arquitetura proposta facilita a escalabilidade das análises e a automação d
 
 ## ✅ 6. Conclusão
 
-Este projeto representa uma simulação prática e estratégica do dia a dia em prevenção a fraudes, com aplicação direta de SQL, IA e raciocínio analítico. Através da construção do Banco UNI, foi possível investigar padrões críticos de risco, documentar descobertas relevantes e estruturar uma arquitetura leve, mas escalável.
+Este projeto representa uma simulação prática e estratégica do dia a dia em prevenção a fraudes, com aplicação direta de SQL, IA e raciocínio analítico. Através da construção do Banco UNI, foi possível investigar padrões críticos de risco, documentar descobertas relevantes e estruturar uma arquitetura leve, mas escalável. 
 
 Mais do que um exercício técnico, essa iniciativa reforça a importância de unir conhecimento de negócio com ferramentas de dados para gerar insights acionáveis — uma habilidade cada vez mais essencial para quem atua ou colabora com times de risco, compliance ou analytics.
+
 ---
 
 ## 👨‍💻 Sobre mim
