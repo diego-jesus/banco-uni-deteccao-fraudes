@@ -63,7 +63,7 @@ A arquitetura proposta facilita a escalabilidade das análises e a automação d
 
 ## ✅ 6. Conclusão
 
-Projeto criado por \Diego Jesus, analista de prevenção a fraudes em transição para dados. Em construção constante.
+Projeto criado por Diego Jesus, analista de prevenção a fraudes em transição para dados. Em construção constante.
 
 ---
 
