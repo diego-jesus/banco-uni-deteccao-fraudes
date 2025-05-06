@@ -43,7 +43,6 @@ Essa arquitetura permite um fluxo completo: da geração e análise de dados at�
 
 ![Query executada 2](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo2.png)
 
-
 * Canal app concentrou a maior parte das fraudes analisadas.
 * Dispositivos com até 7 dias de cadastramento apresentaram taxa de fraude superior.
 * Uma contraparte recebeu valores de múltiplos CPFs diferentes, com fraude confirmada.
