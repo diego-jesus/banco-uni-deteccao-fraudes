@@ -16,16 +16,32 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 
 ## 🛠️ 3. Ferramentas e Técnicas Utilizadas
 
+### 🔧 Arquitetura técnica do projeto
+
+```
+Usuário → Simulação de dados (ChatGPT + Python) 
+       → Armazenamento no BigQuery (transacoes_analise + transacoes_expandido)
+       → Análise via SQL (BigQuery UI)
+       → Documentação técnica e insights no Notion
+       → Versionamento e portfólio no GitHub
+       → Visualização futura no Looker Studio (em construção)
+```
+
+Essa arquitetura permite um fluxo completo: da geração e análise de dados até a apresentação e documentação estratégica do projeto.
+
 * SQL (BigQuery): JOINs, CTEs, subqueries, filtros temporais e de grupo
 * IA (ChatGPT): estruturação de queries, geração de dados sintéticos, storytelling analítico
 * Notion: organização de conhecimento e documentação do projeto
 
 ## 📊 4. Principais Descobertas
+
 ### Exemplo de análise de dispositivo (BigQuery)
 
 ![Query executada 1](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo1.png)
 
 ![Query executada 2](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/query-dispositivo2.png)
+
+![Query executada 3](https://raw.githubusercontent.com/diego-jesus/banco-uni-deteccao-fraudes/main/img/arquitetura-projeto.png)
 
 
 * Canal app concentrou a maior parte das fraudes analisadas.
@@ -35,6 +51,12 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 
 ## 🎯 5. Próximos passos recomendados
 
+A arquitetura proposta facilita a escalabilidade das análises e a automação dos próximos passos. O uso do BigQuery como base central permite consultas otimizadas e reutilizáveis; o Notion organiza o conhecimento e as descobertas; o GitHub garante versionamento do código e documentação pública; e a integração com Looker Studio permitirá criar dashboards visuais que podem ser atualizados automaticamente a partir das tabelas no BigQuery.
+
+* Criar alerta para transações com dispositivos novos
+* Analisar o risco por canal com regras de autenticação diferenciadas
+* Monitorar contrapartes com múltiplos remetentes
+* Desenvolver dashboards executivos com Looker Studio
 * Criar alerta para transações com dispositivos novos
 * Analisar o risco por canal com regras de autenticação diferenciadas
 * Monitorar contrapartes com múltiplos remetentes
@@ -42,7 +64,7 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 
 ## ✅ 6. Conclusão
 
-Projeto criado por Diego de Jesus Oliveira, analista de prevenção a fraudes em transição para dados. Em construção constante.
+Projeto criado por \Diego Jesus, analista de prevenção a fraudes em transição para dados. Em construção constante.
 
 ---
 
