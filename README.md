@@ -3,9 +3,13 @@
 ![Badge Projeto](https://img.shields.io/badge/SQL-BigQuery-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
+---
+
 ## 🔎 1. Contexto do Problema
 
 O aumento de fraudes em canais digitais exige uma análise mais profunda sobre comportamentos suspeitos dentro das transações. O projeto Banco UNI simula um ambiente realista de prevenção a fraudes com o objetivo de identificar padrões críticos e propor ações baseadas em dados.
+
+---
 
 ## 💡 2. Hipóteses e Perguntas-Chave
 
@@ -13,6 +17,8 @@ O aumento de fraudes em canais digitais exige uma análise mais profunda sobre c
 * Existe um canal (app, web, caixa) com taxa de fraude mais alta?
 * Há contrapartes (destinatários) que aparecem em múltiplas fraudes?
 * O tempo de vida da conta influencia o risco?
+
+---
 
 ## 🛠️ 3. Ferramentas e Técnicas Utilizadas
 
@@ -35,6 +41,8 @@ Essa arquitetura permite um fluxo completo: da geração e análise de dados at�
 * IA (ChatGPT): estruturação de queries, geração de dados sintéticos, storytelling analítico
 * Notion: organização de conhecimento e documentação do projeto
 
+---
+
 ## 📊 4. Principais Descobertas
 
 ### Exemplo de análise de dispositivo (BigQuery)
@@ -47,6 +55,8 @@ Essa arquitetura permite um fluxo completo: da geração e análise de dados at�
 * Dispositivos com até 7 dias de cadastramento apresentaram taxa de fraude superior.
 * Uma contraparte recebeu valores de múltiplos CPFs diferentes, com fraude confirmada.
 * Contas com menos de 70 dias de abertura já registraram fraudes.
+
+---
 
 ## 🎯 5. Próximos passos recomendados
 
@@ -61,6 +71,8 @@ A arquitetura proposta facilita a escalabilidade das análises e a automação d
 * Monitorar contrapartes com múltiplos remetentes
 * Desenvolver dashboards executivos com Looker Studio
 
+---
+
 ## ✅ 6. Conclusão
 
 Este projeto representa uma simulação prática e estratégica do dia a dia em prevenção a fraudes, com aplicação direta de SQL, IA e raciocínio analítico. Através da construção do Banco UNI, foi possível investigar padrões críticos de risco, documentar descobertas relevantes e estruturar uma arquitetura leve, mas escalável. 
@@ -71,6 +83,6 @@ Mais do que um exercício técnico, essa iniciativa reforça a importância de u
 
 ## 👨‍💻 Sobre mim
 
-Sou analista de prevenção a fraudes buscando conhecimento e profundidade para entender a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
+Me chamo Diego de Jesus Oliveira e sou analista de prevenção a fraudes buscando conhecimento e profundidade para entender a área de dados. Esse projeto foi construído com base em desafios reais do meu dia a dia, usando SQL, IA (ChatGPT) e visualização de hipóteses de risco para gerar valor prático ao negócio.
 
 📬 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/diego-jesus-317302178/)
